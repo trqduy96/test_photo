@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="toolbar_theme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorControlNormal">@color/white</item>
+        <item name="android:editTextColor">#FF000000</item>
+        <item name="android:textColorHint">#4D000000</item>
+        <item name="android:tint">#4D000000</item>
+    </style>
+
+    <style name="roundedCorners" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">8dp</item>
+    </style>
+
+</resources>
